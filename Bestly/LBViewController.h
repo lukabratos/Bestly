@@ -10,4 +10,8 @@
 
 @interface LBViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIButton *testButton;
+
+- (IBAction)testButtonTapped:(id)sender;
+
 @end

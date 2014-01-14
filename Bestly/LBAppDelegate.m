@@ -8,11 +8,15 @@
 
 #import "LBAppDelegate.h"
 
+#pragma message ("Insert App Key")
+static NSString *const kBestlyKey = @"";
+
 @implementation LBAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [Bestly setupWithKey:kBestlyKey];
     return YES;
 }
 							
