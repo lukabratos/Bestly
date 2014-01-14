@@ -1,0 +1,13 @@
+PODS:
+  - AFNetworking (1.3.3)
+  - Bestly (1.0.1):
+    - AFNetworking (~> 1.3)
+
+DEPENDENCIES:
+  - Bestly
+
+SPEC CHECKSUMS:
+  AFNetworking: 61fdd49e2ffe6380378df37b3b6e70630bb9dd66
+  Bestly: 944bb3d5799c7ce4c92ceaeca22bea935167d9ad
+
+COCOAPODS: 0.29.0

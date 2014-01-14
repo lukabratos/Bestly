@@ -1,0 +1,2 @@
+PODS_BESTLY_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Bestly/bestly-sdk-ios-1.0.1"
+PODS_BESTLY_OTHER_LDFLAGS = -framework Bestly -framework CoreData

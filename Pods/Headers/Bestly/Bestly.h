@@ -1,0 +1,1 @@
+../../Bestly/bestly-sdk-ios-1.0.1/Bestly.framework/Versions/A/Headers/Bestly.h
