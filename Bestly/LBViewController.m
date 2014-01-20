@@ -36,7 +36,6 @@ static NSString *const kTestButtonTapped = @"";
 }
 
 - (IBAction)testButtonTapped:(id)sender {
-    [Bestly goalReachedForExperimentID:kTestButtonTapped];
     UIAlertView *buttonTappedAlert = [[UIAlertView alloc] initWithTitle:@"Info" message:@"Button tapped!" delegate:self cancelButtonTitle:@"Cool!" otherButtonTitles:nil, nil];
     [buttonTappedAlert show];
 }

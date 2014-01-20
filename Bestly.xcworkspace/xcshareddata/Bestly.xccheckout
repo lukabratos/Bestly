@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA69D645-693B-469E-96EE-DC7186A6C8E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bestly</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AC58B93E-8AC7-43C6-B2BD-5D7589CDCDA9</key>
+		<string>ssh://github.com/lukabratos/Bestly.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bestly.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AC58B93E-8AC7-43C6-B2BD-5D7589CDCDA9</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/lukabratos/Bestly.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AC58B93E-8AC7-43C6-B2BD-5D7589CDCDA9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AC58B93E-8AC7-43C6-B2BD-5D7589CDCDA9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bestly</string>
+		</dict>
+	</array>
+</dict>
+</plist>
